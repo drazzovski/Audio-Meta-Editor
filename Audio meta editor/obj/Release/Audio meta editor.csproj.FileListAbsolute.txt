@@ -1,0 +1,39 @@
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\bin\Release\HtmlAgilityPack.dll
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\bin\Release\taglib-sharp.dll
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\bin\Release\HtmlAgilityPack.pdb
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\bin\Release\HtmlAgilityPack.xml
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\obj\Release\Audio meta editor.csproj.App.config
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\obj\Release\Audio meta editor.csprojResolveAssemblyReference.cache
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\obj\Release\MP3_meta_editor.Form1.resources
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\obj\Release\MP3_meta_editor.Sablon.resources
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\obj\Release\Audio meta editor.csproj.GenerateResource.Cache
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\obj\Release\Audio meta editor.csproj.CoreCompileInputs.cache
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\bin\Release\Audio meta editor.exe.config
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\bin\Release\Audio meta editor.exe
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\bin\Release\Audio meta editor.pdb
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\obj\Release\Audio_meta_editor.Properties.Resources.resources
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\obj\Release\Audio meta editor.exe
+C:\Users\drazo\source\repos\Audio meta editor\Audio meta editor\obj\Release\Audio meta editor.pdb
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\bin\Release\Audio meta editor.exe.config
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\bin\Release\Audio meta editor.exe
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\bin\Release\Audio meta editor.pdb
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\bin\Release\HtmlAgilityPack.dll
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\bin\Release\taglib-sharp.dll
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\bin\Release\HtmlAgilityPack.pdb
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\bin\Release\HtmlAgilityPack.xml
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\obj\Release\Audio meta editor.csproj.App.config
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\obj\Release\MP3_meta_editor.Form1.resources
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\obj\Release\Audio_meta_editor.Properties.Resources.resources
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\obj\Release\MP3_meta_editor.Sablon.resources
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\obj\Release\Audio meta editor.csproj.GenerateResource.Cache
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\obj\Release\Audio meta editor.csproj.CoreCompileInputs.cache
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\obj\Release\Audio meta editor.exe
+C:\Users\drazo\source\repos\Mp3 meta editor\Mp3 meta editor\obj\Release\Audio meta editor.pdb
